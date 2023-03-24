@@ -1,3 +1,5 @@
+# !/bin/bash
+# Developed By Qorsan taiz
 clear
 
 trap 'printf"\n";stop' 2
@@ -232,3 +234,4 @@ checkfound
 banner
 dependencies
 start1
+

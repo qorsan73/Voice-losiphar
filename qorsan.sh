@@ -41,7 +41,7 @@ echo -e "\033[1;96m ____   __   __ _  ____
  ) D ((  O )/    / ) _) 
 (____/ \__/ \_)__)(____)"
 sleep 1.0
-echo -e '\033[1;92mLosiphar is launching......'
+echo -e '\033[1;92mVoice-losiphar is launching......'
 sleep 1.1
 chmod +x *
 clear
